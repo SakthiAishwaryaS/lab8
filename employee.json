@@ -1,0 +1,51 @@
+
+[
+        {
+            "name": "Aishwarya",
+            "email": "aishu@gmail.com",
+            "phone": "9654123651",
+            "role": "Manager",
+            "performance": 0.99,
+            "salary": 50000
+        },
+        {
+            "name": "andriya",
+            "email": "ann@gmail.com",
+            "phone": "9541213652",
+            "role": "Junior Employee",
+            "performance": 0.68,
+            "salary": 12000
+        },
+        {
+            "name": "Raj",
+            "email": "raj@gmail.com",
+            "phone": "9471256321",
+            "role": "Developer",
+            "performance": 0.78,
+            "salary": 23000
+        },
+        {
+            "name": "ajai",
+            "email": "ajai@gmail.com",
+            "phone": "9541237832",
+            "role": "HR",
+            "performance": 0.97,
+            "salary": 70000
+        },
+        {
+            "name": "sneha",
+            "email": "sneha@gmail.com",
+            "phone": "9541235684",
+            "role": "Intern",
+            "performance": 0.87,
+            "salary": 40000
+        },
+        {
+            "name": "anila",
+            "email": "anila@gmail.com",
+            "phone": "9612458123",
+            "role": "Intern",
+            "performance": 0.78,
+            "salary": 12000
+        }
+]
